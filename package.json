@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "colors": ">=0.5.1",
-    "firmata": ">=0.2.0",
+    "firmata": "git+https://github.com/brainrape/firmata",
     "lodash": ">=0.1.0",
     "es6-collections": ">=0.0.1",
     "socket.io": "latest",
